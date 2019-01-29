@@ -1,0 +1,22 @@
+- <br> serveix per a dur a terme salts de línea.
+- <hr> imprimeix una línea horitzontalseprant dues zones de la imatge projectada.
+- <ul> s'implementa per a establir una seqüéncia d'elements no ordenats.
+- <ol> semblant al tag ul, amb la diferéncia que la seqüéncia estará ordenada numericaments o alfabeticament.
+- <li> dintre d'aquestes llistes d'elements per a procedir a escriur'els s'implementa aquest tag.
+- <strong> serveix per a destacar la paraula o conjunt de paraules de la resta del text.
+- <b> implementa la negreta.
+- <em> lletra de tipo italica.
+- <i> també implementa lletra italica.
+- <u> implementa el subrallat.
+- <h1> acsotuma a utilitzar-se per a escriure el títol
+- <h6> la lletra serà més petita a mesura que augmenta el número.
+- <tr> defineix una fila.
+- <th> remarca las celdas principales en una taula.
+- <td> marca que es una casella qualsevol.
+- <sub> defineix un text amb menys relevància respecte a un altre zona de text.
+- <sup> text elevat en tamany més petit respecte a la resta de text.
+- <legend> serveix per a fer un quadre on s'introdueix informació.
+
+What is an empty tag? Give an example
+son elements on no es proporciona info en el seu interior.
+
